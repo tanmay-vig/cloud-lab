@@ -1,0 +1,2 @@
+I am learning Javascript.
+It is a simple language yet very intriging to the developer.
